@@ -84,7 +84,7 @@ The models were evaluated using:
 ## How to Run
 
 1. Open the notebook in Google Colab.
-2. Upload the Titanic dataset (`train.csv`).
+2. Upload the Titanic dataset (`train[1].csv`).
 3. Install required Python libraries if needed.
 4. Run all cells sequentially.
 5. View model performance and prediction results.
